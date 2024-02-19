@@ -47,8 +47,7 @@ So sánh nhóm:
 Hành vi mua hàng:
 Có thể so sánh số lượng giao dịch, doanh thu trung bình, sản phẩm mua thường xuyên của các nhóm khách hàng khác nhau.
 Nhóm CohortIndex 1 có thể có số lượng giao dịch cao hơn nhưng doanh thu trung bình thấp hơn so với nhóm CohortIndex 4.
-Nhóm CohortIndex 1 có thể có tỷ lệ khách hàng cao hơn so với nhóm CohortIndex 4.
----
+Nhóm CohortIndex 1 có thể có tỷ lệ khách hàng cao hơn so với nhóm CohortIndex 4.---
 
 
 
