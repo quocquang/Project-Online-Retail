@@ -1,18 +1,5 @@
 # 🛒 Marketing Strategy Analysis
 
-
-
-# :books: Table of Contents <!-- omit in toc -->
-
-- [:briefcase: Business Case and Requirement](#briefcase-business-case-and-requirement)
-- [:bookmark_tabs:Example Datasets](#bookmark_tabsexample-datasets)
-- [A. Data Exploration and Cleansing](#a-data-exploration-and-cleansing)
-- [B. Analysis](#b-analysis)
-
-- [📃 What can you practice with this case study?](#what-can-you-practice-with-this-case-study)
-
----
-
 # :briefcase: Business Case and Requirement
 
 
@@ -324,7 +311,7 @@ fd826e7cf63160e536e0908c76c3f441|	addec96d2e059c80c30fe6871d30d177|	4534|	sao pa
   - pandas, numpy,matplotlib,seaborn.
   - cleaning, check Null values, transforming.
  
-  - import, save csv file. 
+  - import, saveve csv file. 
 - POWER BI
   - Visualize
   - Analyze
