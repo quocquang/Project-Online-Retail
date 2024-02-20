@@ -70,6 +70,7 @@ Tháng 12/2011: 41 khách hàng mới.
 
 ---
 
+
 # 🧾 What can you practice with this case study?
 - Python
   - pandas, numpy,matplotlib,seaborn.
