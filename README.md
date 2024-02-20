@@ -32,24 +32,24 @@
 - Bảng dữ liệu hiển thị số lượng khách hàng mới (CohortIndex 1) theo từng tháng từ tháng 12/2010 đến tháng 12/2011.
 Dựa vào bảng dữ liệu, số lượng khách hàng mới (CohortIndex 1) có xu hướng giảm dần trong vài tháng đầu năm 2011 sau khi đạt đỉnh vào tháng 12/2010.
 - Số lượng khách hàng mới:
-Tháng 12/2010 có số lượng khách hàng mới cao nhất (948 khách hàng).
-Tháng 1/2011: 421 khách hàng mới.
-Tháng 2/2011: 380 khách hàng mới.
-Tháng 3/2011: 440 khách hàng mới.
-Tháng 4/2011: 299 khách hàng mới.
-Tháng 5/2011: 279 khách hàng mới.
-Tháng 6/2011: 235 khách hàng mới.
-Tháng 7/2011: 191 khách hàng mới.
-Tháng 8/2011: 167 khách hàng mới.
-Tháng 9/2011: 298 khách hàng mới.
-Tháng 10/2011: 352 khách hàng mới.
-Tháng 11/2011: 321 khách hàng mới.
-Tháng 12/2011: 41 khách hàng mới.
-Sau tháng 5/2011, số lượng khách hàng mới có xu hướng tăng trở lại và ổn định ở mức trung bình khoảng 300 khách hàng mỗi tháng.
-Có thể quan sát thấy một sự gia tăng về số lượng khách hàng mới vào các tháng cuối năm (tháng 10, 11, 12).
-Tháng 10/2011: 352 khách hàng mới.
-Tháng 11/2011: 321 khách hàng mới.
-Tháng 12/2011: 41 khách hàng mới.
+ - Tháng 12/2010 có số lượng khách hàng mới cao nhất (948 khách hàng).
+ - Tháng 1/2011: 421 khách hàng mới.
+ - Tháng 2/2011: 380 khách hàng mới.
+ - Tháng 3/2011: 440 khách hàng mới.
+ - Tháng 4/2011: 299 khách hàng mới.
+ - Tháng 5/2011: 279 khách hàng mới.
+ - Tháng 6/2011: 235 khách hàng mới.
+ - Tháng 7/2011: 191 khách hàng mới.
+ - Tháng 8/2011: 167 khách hàng mới.
+ - Tháng 9/2011: 298 khách hàng mới.
+ - Tháng 10/2011: 352 khách hàng mới.
+ - Tháng 11/2011: 321 khách hàng mới.
+ - Tháng 12/2011: 41 khách hàng mới.
+ - Sau tháng 5/2011, số lượng khách hàng mới có xu hướng tăng trở lại và ổn định ở mức trung bình khoảng 300 khách hàng mỗi tháng.
+ - Có thể quan sát thấy một sự gia tăng về số lượng khách hàng mới vào các tháng cuối năm (tháng 10, 11, 12).
+ - Tháng 10/2011: 352 khách hàng mới.
+ - Tháng 11/2011: 321 khách hàng mới.
+ - Tháng 12/2011: 41 khách hàng mới.
 #### * Giữ chân khách hàng:
 
 - Dựa vào dữ liệu hiện có, ta có thể thấy một số nhóm có tỷ lệ giữ chân cao hơn trong vài tháng đầu tiên
