@@ -577,7 +577,7 @@ print('Lost Cheap Customers: ',len(rfm_segmentation[rfm_segmentation['RFMScore']
 
 #### * Customer Acquisition Trend:
 
--The dataset displays the number of new customers (CohortIndex 1) for each month from December 2010 to December 2011.
+- The dataset displays the number of new customers (CohortIndex 1) for each month from December 2010 to December 2011.
 Based on the dataset, the number of new customers (CohortIndex 1) tends to decrease in the first few months of 2011 after peaking in December 2010.
 - Number of new customers:
   - December 2010 has the highest number of new customers (948 customers).
@@ -624,7 +624,23 @@ Based on the dataset, the number of new customers (CohortIndex 1) tends to decre
     - October 2011 maintained the high revenue trend, reaching 974,603.590.
     - November 2011 saw a further increase in revenue, reaching 1,132,407.740.
     - However, in December 2011, there was a significant decrease in revenue, dropping to 342,506.380.
-
+- Monthly revenue growth rate chart:
+    - The revenue growth rate is experiencing significant fluctuations. In some months, the revenue growth rate is very high, such as in January and July. However, in other months, the revenue growth rate is 
+      negative, such as in April and October.
+    - The revenue growth rate tends to decrease over time. In the first 12 months, the average revenue growth rate is 0.2%. However, in the following 12 months, the average revenue growth rate drops to only 0.1%.
+- Number of customers per month chart
+    - The number of customers shows an increasing trend over time. In the first year, the average number of customers per month is 1000. However, in the second year, the average number of customers per month 
+      increases to 1200.
+    - The number of customers exhibits seasonal fluctuations. During the summer months, the number of customers is typically higher compared to the winter months.
+    - There are some months with significant spikes in the number of customers. For example, in December 2011, the number of customers increased to 1600.
+- Number of orders per month chart
+    - The number of orders shows an increasing trend over time. In the first month, the number of orders is over 20,000.
+    - The number of orders exhibits monthly fluctuations, with November having the highest number of orders, exceeding 60,000.
+- Average Revenue per Order chart
+    - In 2011, the average revenue for two months, April and November, shows a significant decrease, particularly in November.
+    - The average revenue for the two highest months, May and September, is notably high.
+- New Customer Ratio chart
+    - The rate of new customers shows a sharp decrease over time.
 - Best Customers: Recent, frequent, high-value purchases (High RFM) - 354 customers.
 - Loyal Customers: Frequent, high-value purchases (High RF, Medium M) - 980 customers.
 - Big Spenders: Recent, high-value purchases but less frequent (Medium RFM) - 1044 customers.
